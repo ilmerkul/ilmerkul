@@ -9,6 +9,7 @@ Specialty degree in physics, Moscow State University, Moscow 2022-2028
 Python
 Golang
 C/C++
+
 Python ML Stack (NumPy, Pandas, Scikit-Learn, SciPy, Catboost)
 
 Python DL Stack (Pytorch, huggingface, NLP, CV)
