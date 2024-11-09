@@ -1,6 +1,6 @@
 ## Ilya Merkulov
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 Specialty degree in physics, Moscow State University, Moscow 2022-2028
