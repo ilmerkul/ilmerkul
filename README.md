@@ -10,15 +10,21 @@ Python
 Golang
 C/C++
 Python ML Stack (NumPy, Pandas, Scikit-Learn, SciPy, Catboost)
+
 Python DL Stack (Pytorch, huggingface, NLP, CV)
+
 Python Experiment Stack (MLflow, DVC, Hydra)
+
 Data Engineering Stack (SQL, Faiss)
 
 ## Self-education
 Avito Analytics Academy "Data Science", 2024-2025
+
 VK Education, "Golang programming, Microservices", 2023-2024
+
 Yandex Lyceum "Python Programming", 2019-2021
 
 ## Expertise
 Data Science
+
 Data Engineering
