@@ -1,16 +1,22 @@
-## Hi there 👋
+## Ilya Merkulov
 
-<!--
-**ilmerkul/ilmerkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+Specialty degree in physics, Moscow State University, Moscow 2022-2028
 
-Here are some ideas to get you started:
+## Skills
+Python
+Golang
+C/C++
+Python ML Stack (NumPy, Pandas, Scikit-Learn, SciPy, Catboost)
+Python DL Stack (Pytorch, huggingface, NLP, CV)
+Python Experiment Stack (MLflow, DVC, Hydra)
+Data Engineering Stack (SQL, Faiss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Self-education
+Avito Analytics Academy "Data Science", 2024-2025
+VK Education, "Golang programming, Microservices", 2023-2024
+Yandex Lyceum "Python Programming", 2019-2021
+
+## Expertise
+Data Science
+Data Engineering
