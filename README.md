@@ -27,3 +27,5 @@
 * Data Science
 
 * Data Engineering
+
+* Quantum programming
