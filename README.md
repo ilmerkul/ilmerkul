@@ -10,11 +10,13 @@
 
 * Python ML Stack (NumPy, Pandas, Scikit-Learn, SciPy, Catboost)
 
-* Python DL Stack (Pytorch, huggingface, NLP, CV)
+* Python DL Stack (Pytorch, huggingface, NLP, CV, RL)
 
 * Python Experiment Stack (MLflow, DVC, Hydra)
 
 * Data Engineering Stack (SQL, Faiss)
+  
+* Robotics (ROS2)
 
 ## Self-education
 [Avito Analytics Academy](https://avito-analytics-academy.ru/) "Data Science", 2024-2025
